@@ -1,0 +1,23 @@
+html, body {
+	width: 100%;
+	height: 100%;
+	margin:0;
+	padding:0;
+}
+
+body {
+	overflow: hidden;
+}
+
+* {
+	margin:0;
+	padding:0;
+}
+
+.canvasDiv {
+	margin: auto;
+	width: 100%;
+	height: 100%;
+	border:1px solid #C0C0C0;
+	margin : 9px;
+}
